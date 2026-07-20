@@ -4,7 +4,7 @@ A logic processor built in two stages: first as a 4-bit serial processor using d
 digital logic ICs on a breadboard, then extended to an 8-bit version implemented in
 SystemVerilog and verified on FPGA hardware using Vivado simulation and debug cores.
 
-![breadboard photo](assets/breadboard-photo.png)
+
 <img width="622" height="458" alt="Screenshot 2026-07-19 231348" src="https://github.com/user-attachments/assets/6931f86c-4f9e-44ed-b663-0d0e4af864ce" />
 
 
